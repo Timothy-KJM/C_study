@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+*#include <stdio.h>
 
 int main(void) {
 	int arr[3] = { 0, };
@@ -17,4 +17,4 @@ int main(void) {
 
 	printf("세 정수 중 가장 큰 수는 %d 입니다.", max);
 	return 0;
-}*/
+}

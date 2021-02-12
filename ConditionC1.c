@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int n1, n2;
@@ -12,4 +12,4 @@ int main(void) {
 
 	printf("큰 수는 %d 입니다.", max_num);
 	return 0;
-}*/
+}

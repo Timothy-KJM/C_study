@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int end_month, end_day;
@@ -19,4 +19,4 @@ int monthtoday(int month, int day, int day_count[]) {
 	count += day;
 
 	return count;
-}*/
+}

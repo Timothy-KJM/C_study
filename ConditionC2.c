@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int num;
@@ -9,4 +9,4 @@ int main(void) {
 	else printf("%d은 홀수 입니다.", num);
 
 	return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 void MaxAndMin(int** max, int size, int** min, int* arr);
 
@@ -30,4 +30,4 @@ void MaxAndMin(int** max, int size, int** min, int* arr) {
 	}
 	*max = max1;
 	*min = min1;
-}*/
+}

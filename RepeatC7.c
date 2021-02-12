@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int sum = 0;
@@ -19,4 +19,4 @@ int main(void) {
 	}
 	printf("%d", sum);
 	return 0;
-}*/
+}

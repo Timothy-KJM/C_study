@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 char grade_text(int score);
 
@@ -29,4 +29,4 @@ char grade_text(int score) {
 		grade = 'E';
 
 	return grade;
-}*/
+}

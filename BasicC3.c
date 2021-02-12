@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 float temperature(float tem1);
 
@@ -17,4 +17,4 @@ int main(void) {
 float temperature(float tem1) {
 	float tem2 = tem1 * (9 / 5) + 32;
 	return tem2;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int i = 0, sum = 0;
@@ -10,4 +10,4 @@ int main(void) {
 	} while (i <= 100);
 	printf("%d", sum);
 	return 0;
-}*/
+}

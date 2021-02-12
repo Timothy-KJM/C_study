@@ -1,9 +1,9 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 void sum(int num1, int num2);
 void sub(int num1, int num2);
-void pro(int num1, int num2);
-void dev(int num1, int num2);
+void mul(int num1, int num2);
+void div(int num1, int num2);
 
 int main(void) {
 	int n1, n2 = 0;
@@ -14,8 +14,8 @@ int main(void) {
 
 	sum(n1, n2);
 	sub(n1, n2);
-	pro(n1, n2);
-	dev(n1, n2);
+	mul(n1, n2);
+	div(n1, n2);
 
 	return 0;
 }
@@ -30,12 +30,12 @@ void sub(int num1, int num2) {
 	printf("%d - %d = %d\n", num1, num2, answer);
 }
 
-void pro(int num1, int num2) {
+void mul(int num1, int num2) {
 	int answer = num1 * num2;
 	printf("%d x %d = %d\n", num1, num2, answer);
 }
 
-void dev(int num1, int num2) {
+void div(int num1, int num2) {
 	int answer = num1 / num2;
 	printf("%d / %d = %d\n", num1, num2, answer);
-}*/
+}

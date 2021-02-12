@@ -1,4 +1,4 @@
-/*#define TRUE 1
+#define TRUE 1
 #include <stdio.h>
 #include <ctype.h>
 
@@ -20,4 +20,4 @@ int main(void) {
 	}
 
 	return 0;
-}*/
+}

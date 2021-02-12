@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int j = 1;
@@ -7,4 +7,4 @@ int main(void) {
 		j++;
 	}
 	return 0;
-}*/
+}

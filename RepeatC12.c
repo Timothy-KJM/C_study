@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int num;
@@ -14,4 +14,4 @@ int main(void) {
 	}
 	printf("%d", m);
 	return 0;
-}*/
+}

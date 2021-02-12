@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int devdev(int num1, int num2);
 int devdevdev(int num1, int num2);
@@ -28,4 +28,4 @@ int devdevdev(int num1, int num2) {
 	int rest = num1 % num2;
 
 	return rest;
-}*/
+}

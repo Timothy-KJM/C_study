@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int dan;
@@ -9,4 +9,4 @@ int main(void) {
 		printf("%d x %d = %d\n", dan, i, dan * i);
 	}
 	return 0;
-}*/
+}

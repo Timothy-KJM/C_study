@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 double average(int num1, int num2, int num3);
 
@@ -18,4 +18,4 @@ int main(void) {
 double average(int num1, int num2, int num3) {
 	double aver = (num1 + num2 + num3) / 3;
 	return aver;
-}*/
+}

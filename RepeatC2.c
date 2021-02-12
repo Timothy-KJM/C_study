@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+include <stdio.h>
 
 int main(void) {
 	int answer = 0;
@@ -9,4 +9,4 @@ int main(void) {
 	}
 	printf("%d", answer);
 	return 0;
-}*/
+}

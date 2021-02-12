@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
 	int max = 0;
@@ -13,4 +13,4 @@ int main(void) {
 	}
 	printf("%d", max);
 	return 0;
-}*/
+}

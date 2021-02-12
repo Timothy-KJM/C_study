@@ -1,4 +1,4 @@
-/*#define SIZE 7
+#define SIZE 7
 #include <stdio.h>
 
 int main(void) {
@@ -20,4 +20,4 @@ int main(void) {
 		printf("%d", sum);
 	}
 	return 0;
-}*/
+}
