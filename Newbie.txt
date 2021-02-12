@@ -1,0 +1,6 @@
+This is my first time to use Github.
+I learned about it through YouTube.
+I still have a long way to go with open source collaboration.
+I plan to post an example of the intensity of the C language that I studied in this report.
+All the problems that could not be solved have been treated with notes.
+I look forward to working with you.
