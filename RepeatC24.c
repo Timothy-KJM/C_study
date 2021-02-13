@@ -1,21 +1,19 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main(void) {
+	int i, j, k;
 	int floor;
-	printf("¸î ÃþÀ¸·Î ½×À»±î¿ä? ");
+	printf("Floor? ");
 	scanf_s("%d", &floor);
 
-	for (int i = floor; i > 0; i--) {
-		for (int j = 0; j < floor; j++) {
-			if (j > i) {
-				printf("*");
-			}
-			else {
-				printf(" ");
-			}
+	for (i = 1; i <= floor; i++) {
+		for (k = floor;k > i; k--){
+			printf(" ");
+		}
+		for (j = 0; j < i + (i - 1); j++) {
+			printf("*");
 		}
 		printf("\n");
-		floor++;
 	}
 	return 0;
-}*/
+}
